@@ -1,0 +1,12 @@
+.classpath
+.project
+.settings/
+target/
+/WSNLPProcessor/target/**
+/FinchNLP/target/**
+/FinchLexicalFeatures/target/**
+/MaxentProcessor/target/**
+/CRFProcessor/target/**
+/Taxonomia/target/**
+/WSNLPVisual/target/**
+/ConsomeWS/target/**
